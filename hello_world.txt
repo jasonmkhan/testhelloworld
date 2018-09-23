@@ -20,4 +20,12 @@ class Test
 		int c = a / b;
 		return c;
 	}
+	
+	public int DoThing()
+	{
+		int c = a + b + a + b;
+		int d = c / 2 * 10;
+		
+		return d;
+	}
 }
