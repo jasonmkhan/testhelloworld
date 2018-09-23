@@ -20,4 +20,10 @@ class Test
 		int c = a * b;
 		return c;
 	}
+	
+	public int Divide()
+	{
+		int c = a / b;
+		return c;
+	}
 }
